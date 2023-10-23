@@ -19,8 +19,8 @@ public class Humain {
 		return argent;
 	}
 
-	 private void parler(String texte) { 
-		System.out.println(nom + " : " + "« " + texte + "»"); 
+	 public void parler(String texte) { 
+		System.out.println("(" + nom + ") : " + texte); 
 	 }
 
 	 public void gagnerArgent(int qtite) {
