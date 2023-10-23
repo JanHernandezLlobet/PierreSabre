@@ -30,6 +30,9 @@ public class HistoireTP4 {
 		Yaku.direBonjour();
 		Yaku.extorquer(marco);
 		
+		
+		
+		
 	}
 	
 }
