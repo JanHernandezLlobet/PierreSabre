@@ -1,8 +1,8 @@
 package histoire;
-import personnages.Humain;
 import personnages.Commercant;
-import personnages.Yakuza;
+import personnages.Humain;
 import personnages.Ronin;
+import personnages.Yakuza;
 
 public class HistoireTP4 {
 
